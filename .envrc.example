@@ -1,0 +1,14 @@
+# Autotask ID
+export AUTOTASK_ID=
+
+# Relayer API key
+export API_KEY=
+
+# Relayer API secret
+export API_SECRET=
+
+# Defender API key
+export DEFENDER_TEAM_API_KEY=
+
+# Defender API secret
+export DEFENDER_TEAM_SECRET_KEY=
